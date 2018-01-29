@@ -4,10 +4,10 @@
     detail: Google
     i18n: google
   desc:
-    detail: I worked at Google
+    detail: Working at Google in their Engineering Residency Program. New grads rotate between different product area to gain more experience and exposure as a SWE.
     i18n: google_desc
   date:
-    detail: March 2017
+    detail: March 2017 - Present
     i18n: google_date
   job:
     detail: Software Engineer
@@ -15,15 +15,85 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: University of Michigan
+    i18n: umich
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Graduated with a Master's Degree in Computer Science. Go Blue!
+    i18n: umich_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: December 2016
+    i18n: umich_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Student
+    i18n: umich_job
+  icon: fa-plus-square
+
+- name:
+    detail: Magna Electronics
+    i18n: mag_elec
+  desc:
+    detail: Worked on improving internal tools and programming different configurations of rear-view cameras for mobile vehicles for all different OEM (e.g. Ford, Chrysler, GM).
+    i18n: mag_elec_desc
+  date:
+    detail: May 2016 - August 2016
+    i18n: mag_elec_date
+  job:
+    detail: Software Engineering Intern
+    i18n: mag_elec_job
+  icon: fa-plus-square
+
+- name:
+    detail: Wolfram Research
+    i18n: wolfram
+  desc:
+    detail: Attended Wolfram Summer School to learn and do projects at the frontier of science and technology.
+    i18n: wolfram_desc
+  date:
+    detail: June 2016 - July 2016
+    i18n: wolfram_date
+  job:
+    detail: Research Student
+    i18n: wolfram_job
+  icon: fa-plus-square
+
+- name:
+    detail: University of Michigan
+    i18n: umich2
+  desc:
+    detail: Graduated with Bachelor Degrees in Software Engineering and Mathematics.
+    i18n: umich2_desc
+  date:
+    detail: April 2015
+    i18n: umich2_date
+  job:
+    detail: Student
+    i18n: umich2_job
+  icon: fa-plus-square
+
+- name:
+    detail: Harman
+    i18n: harman
+  desc:
+    detail: Designed, built and implemented effective testing strategies for infotainment systems in cars.
+    i18n: harman_desc
+  date:
+    detail: April 2014 - September 2015
+    i18n: harman_date
+  job:
+    detail: Software Test Engineer
+    i18n: umich2_job
+  icon: fa-plus-square
+
+- name:
+    detail: Ford Motor Company
+    i18n: ford
+  desc:
+    detail: Researched the effectiveness of platinum catalyst and different storage alloys in hydrogen fuel cell cars.
+    i18n: ford_desc
+  date:
+    detail: May 2013 - August 2013
+    i18n: ford_date
+  job:
+    detail: Research Engineer Intern
+    i18n: ford_job
   icon: fa-plus-square
