@@ -1,6 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: QuixBugs: A Multi-Lingual Program Repair Benchmark Set
+  url: https://2017.splashcon.org/event/splash-2017-posters-quixbugs-a-multi-lingual-program-repair-benchmark-set-based-on-the-quixey-challenge
+  gh_user: jkoppel
+  repo: QuixBugs
+  img: /static/assets/img/landing/quixey.png
+  desc: Collaborated with MIT researchers to work on providing an open access benchmark test suite. In this project, the benchmark test suite is used for evaluating the performance of multi-language program repair tools. The test suite contains 40 different buggy code sets from Quixey Challenge in Python and Java. Published at ACM SIGPLAN International Conference in Systems, Programming, Languages and Applications: Software for Humanity (SPLASH) Companion 2017.
+
 - name: Space Mission Instrumentation Testing Design
   i18n: kasper
   url: http://mdp.engin.umich.edu/wp-content/uploads/2016/07/2017-Ziggy-PIMS-2.pdf
@@ -11,7 +18,6 @@
   url: http://community.wolfram.com/groups/-/m/t/887456
   img: /static/assets/img/landing/malware.png
   desc: The application module takes in a file in binary data form and translate it to 2D/3D spatial representations in Mathematica. Combined Hilbert Curve and Shannon Entropy to detect regions with malware in files. This also can have applications in reverse engineering and forensic analysis. The project earned recognition in the Wolfram Community and featured in Wolfram Science program and earned recognition in Wolfram Community.
-
 
 - name: Fun with Fooling Web Users and SSL Stripping Attack
   i18n: google
