@@ -1,11 +1,7 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Chen
+  first_name: Angela
+  desc: Software Engineer
+  website: https://www.angelajchen.me
+  email: angjchen@gmail.com
 
-- last_name:
-  first_name: Github
-  desc:
-  website: http://www.github.com/chenaj
