@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: QuixBugs: A Multi-Lingual Program Repair Benchmark Set
+- name: QuixBugs - A Multi-Lingual Program Repair Benchmark Set
   i18n: quixbugs
   gh_user: jkoppel
   repo: QuixBugs

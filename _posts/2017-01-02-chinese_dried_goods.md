@@ -4,7 +4,7 @@ title:  "Entering the Chinese Dried Goods Bazaar"
 date:   2017-01-02
 desc: "Entering the Chinese Dried Goods Bazaar"
 keywords: "chenaj,chinese,dried,goods"
-categories: [life]
+categories: [Life]
 tags: [chenaj,chinese,dried,goods]
 icon: icon-html
 ---
