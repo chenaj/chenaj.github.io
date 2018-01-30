@@ -31,8 +31,8 @@ author:  # change following line to your infomation.
   desc: Innovation is everywhere, and it's really cool. I enjoy working on software to contribute to new technologies. I'm looking forward to learning and evolving with the fast-paced environment and collaborating with brilliant people as a software engineer.  # Describe yourself.
 
 # comment
-#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-#  name:
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: chenaj
 
 # analytics
 ## google analytics
