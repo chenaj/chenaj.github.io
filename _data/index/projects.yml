@@ -6,7 +6,7 @@
   gh_user: jkoppel
   repo: QuixBugs
   img: /static/assets/img/landing/quixey.png
-  desc: Collaborated with MIT researchers to work on providing an open access benchmark test suite. In this project, the benchmark test suite is used for evaluating the performance of multi-language program repair tools. The test suite contains 40 different buggy code sets from Quixey Challenge in Python and Java. Published at ACM SIGPLAN International Conference in Systems, Programming, Languages and Applications: Software for Humanity Companion 2017.
+  desc: Collaborated with MIT researchers to work on providing an open access benchmark test suite. In this project, the benchmark test suite is used for evaluating the performance of multi-language program repair tools. The test suite contains 40 different buggy code sets from Quixey Challenge in Python and Java. Published at ACM SIGPLAN International Conference in Systems, Programming, Languages and Applications Software for Humanity (SPLASH) Companion 2017.
 
 - name: Space Mission Instrumentation Testing Design
   i18n: kasper
