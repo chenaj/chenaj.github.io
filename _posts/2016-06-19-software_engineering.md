@@ -33,8 +33,8 @@ communication is crucial. You would interact with people that’s both technical
 I feel that this picture sums up the dividing line between the fields quite nicely. Of course, keep in mind there 
 are overlaps in tasks bertween the two fields.
 
-<p align="center">
+
     <!-- ![edit]({{ site.img_path }}/software_vs_computer.gif) -->
     <img src="{{ site.img_path }}/software_vs_computer.gif" width="75%">
-*Software Engineering oriented task on top, computer science on bottom* 
-</p>
+    
+    <center><i>Software Engineering oriented task on top, computer science on bottom</i></center>
