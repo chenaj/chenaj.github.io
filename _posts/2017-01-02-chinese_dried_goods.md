@@ -21,8 +21,8 @@ expensive dried scallop, and the controversial sharkfins. The street is particul
 New Year when households are preparing for festive dishes in family banquets.
 
 <p align="center">
-<!-- ![edit]({{ site.img_path }}/chinese_dried_goods/bazaar.jpg) -->
-<img src="{{ site.img_path }}/chinese_dried_goods/bazaar.jpg" width="75%">
+    <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/bazaar.jpg) -->
+    <img src="{{ site.img_path }}/chinese_dried_goods/bazaar.jpg" width="75%">
 *Sanya's dried goods market during early morning* 
 </p>
 
@@ -35,10 +35,10 @@ Dried seahorses are consumed for virility because seahorses are a species in whi
 are also prescribed from ailments such as asthma, arteosclerosis, dizziness, joint pain, impotence and incontinence.
 
 <p align="center">
-<!-- ![edit]({{ site.img_path }}/chinese_dried_goods/dried_oyster.jpg) -->
-<img src="{{ site.img_path }}/chinese_dried_goods/dried_oyster.jpg" width="30%"> 
-<!-- ![edit]({{ site.img_path }}/chinese_dried_goods/dried_moss.jpg) -->
-<img src="{{ site.img_path }}/chinese_dried_goods/dried_moss.jpg" width="30%">
+    <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/dried_oyster.jpg) -->
+    <img src="{{ site.img_path }}/chinese_dried_goods/dried_oyster.jpg" width="30%"> 
+    <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/dried_moss.jpg) -->
+    <img src="{{ site.img_path }}/chinese_dried_goods/dried_moss.jpg" width="30%">
 
 *Dried oyster and black moss* 
 </p>
