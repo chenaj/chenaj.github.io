@@ -20,11 +20,12 @@ housewives inspecting the likes of endless variety of dried fish, sea cucumber, 
 expensive dried scallop, and the controversial sharkfins. The street is particularly lively in the run up to Chinese 
 New Year when households are preparing for festive dishes in family banquets.
 
-
+<center>
 <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/bazaar.jpg) -->
 <img src="{{ site.img_path }}/chinese_dried_goods/bazaar.jpg" width="60%">
     
-<center><i>Sanya's dried goods market during early morning</i></center>
+<i>Sanya's dried goods market during early morning</i>
+</center>
 
 
 Many of the dried goods are believed to contain medicinal properties. Majority of Chinese think that medicines made 
@@ -35,13 +36,14 @@ is supposed to prolong erections. Deer musk is rubbed on private parts to stimul
 Dried seahorses are consumed for virility because seahorses are a species in which the males get pregnant. Seahorses 
 are also prescribed from ailments such as asthma, arteosclerosis, dizziness, joint pain, impotence and incontinence.
 
-
+<center>
 <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/dried_oyster.jpg) -->
 <img src="{{ site.img_path }}/chinese_dried_goods/dried_oyster.jpg" width="35%"> 
 <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/dried_moss.jpg) -->
-<img src="{{ site.img_path }}/chinese_dried_goods/dried_moss.jpg" width="25%">
+<img src="{{ site.img_path }}/chinese_dried_goods/dried_moss.jpg" width="28%">
 
-<center><i>Dried oyster and black moss</i></center>
+<i>Dried oyster and black moss</i>
+</center>
 
 
 Some dishes are also made for consumption out of superstition and good luck such as dried oysters and black moss. 
