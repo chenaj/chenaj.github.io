@@ -34,7 +34,7 @@ I feel that this picture sums up the dividing line between the fields quite nice
 are overlaps in tasks bertween the two fields.
 
 
-    <!-- ![edit]({{ site.img_path }}/software_vs_computer.gif) -->
-    <img src="{{ site.img_path }}/software_vs_computer.gif" width="75%">
+<!-- ![edit]({{ site.img_path }}/software_vs_computer.gif) -->
+<img src="{{ site.img_path }}/software_vs_computer.gif" width="75%">
     
-    <center><i>Software Engineering oriented task on top, computer science on bottom</i></center>
+<center><i>Software Engineering oriented task on top, computer science on bottom</i></center>
