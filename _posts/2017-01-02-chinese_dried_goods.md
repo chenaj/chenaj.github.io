@@ -23,7 +23,7 @@ New Year when households are preparing for festive dishes in family banquets.
 <center>
 <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/bazaar.jpg) -->
 <img src="{{ site.img_path }}/chinese_dried_goods/bazaar.jpg" width="60%">
-    
+<br>
 <i>Sanya's dried goods market during early morning</i>
 </center>
 
@@ -40,8 +40,8 @@ are also prescribed from ailments such as asthma, arteosclerosis, dizziness, joi
 <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/dried_oyster.jpg) -->
 <img src="{{ site.img_path }}/chinese_dried_goods/dried_oyster.jpg" width="35%"> 
 <!-- ![edit]({{ site.img_path }}/chinese_dried_goods/dried_moss.jpg) -->
-<img src="{{ site.img_path }}/chinese_dried_goods/dried_moss.jpg" width="28%">
-
+<img src="{{ site.img_path }}/chinese_dried_goods/dried_moss.jpg" width="26.5%">
+<br>
 <i>Dried oyster and black moss</i>
 </center>
 

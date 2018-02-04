@@ -36,6 +36,6 @@ are overlaps in tasks bertween the two fields.
 <center>
 <!-- ![edit]({{ site.img_path }}/software_vs_computer.gif) -->
 <img src="{{ site.img_path }}/software_vs_computer.gif" width="75%">
-    
+<br>
 <i>Software Engineering oriented task on top, computer science on bottom</i>
 </center>
