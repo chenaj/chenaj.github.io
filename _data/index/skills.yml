@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, Javascript, C++, HTML5, CSS, SQL, Machine Learing, Python, Curiosity
-percentage: 80, 60, 90, 60, 40, 90, 40, 70, 100
+aspects: Java, Javascript, C++, HTML5, CSS, SQL, Machine Learing, Python, Curiosity, TypeScript
+percentage: 80, 70, 90, 60, 40, 90, 40, 70, 100, 80
