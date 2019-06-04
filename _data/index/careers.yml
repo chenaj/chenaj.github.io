@@ -4,7 +4,7 @@
     detail: Google
     i18n: google
   desc:
-    detail: Working on core maps API team and collaborating with Google Cloud Platform to improve developers console, allowing users to have a seamless experience when using our API services. 
+    detail: Working on core maps API team and collaborating with Google Cloud Platform to improve developers console, designing UX for users to have a seamless experience when using our API services. 
     i18n: google_desc
   date:
     detail: March 2017 - Present
@@ -24,7 +24,7 @@
     detail: December 2016
     i18n: umich_date
   job:
-    detail: Student
+    detail: Graduate Student
     i18n: umich_job
   icon: fa-plus-square
 
@@ -32,7 +32,7 @@
     detail: Magna Electronics
     i18n: mag_elec
   desc:
-    detail: Worked on improving internal tools and programming different configurations of rear-view cameras for mobile vehicles for all different OEM (e.g. Ford, Chrysler, GM).
+    detail: Added new features to internal config tools and improved performance of rear-view cameras for mobile vehicles of all different OEM (e.g. Ford, Chrysler, GM).
     i18n: mag_elec_desc
   date:
     detail: May 2016 - August 2016
@@ -46,7 +46,7 @@
     detail: Wolfram Research
     i18n: wolfram
   desc:
-    detail: Attended Wolfram Summer School to learn and do projects at the frontier of science and technology.
+    detail: Worked on a project for visualizing binary files while testing the newest release of Mathematica.
     i18n: wolfram_desc
   date:
     detail: June 2016 - July 2016
@@ -60,13 +60,13 @@
     detail: University of Michigan
     i18n: umich2
   desc:
-    detail: Graduated with Bachelor Degrees in Software Engineering and Mathematics.
+    detail: Graduated with dual Bachelor Degrees in Software Engineering and Applied Mathematics.
     i18n: umich2_desc
   date:
     detail: April 2015
     i18n: umich2_date
   job:
-    detail: Student
+    detail: Undergraduate Student
     i18n: umich2_job
   icon: fa-plus-square
 
@@ -74,7 +74,7 @@
     detail: Harman
     i18n: harman
   desc:
-    detail: Designed, built and implemented effective testing strategies for infotainment systems in cars.
+    detail: Designed, built, and implemented effective testing strategies and frameworks for infotainment systems in cars.
     i18n: harman_desc
   date:
     detail: April 2014 - September 2015
